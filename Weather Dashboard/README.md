@@ -225,6 +225,6 @@ This project demonstrates practical skills in:
 
 ## Author
 
-**Aryan Raj**
+**Aditya Raj**
 
 Data Analytics | Python | SQL | Power BI
