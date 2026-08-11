@@ -39,7 +39,7 @@ Hourly sales insights: average spend per order, revenue, and units sold, with or
 ![Daily Sales Performance](Dashboard%20imgs/Screenshot%202026-08-12%20020446.png)
 
 ### Dashboard Detail View
-![Dashboard Detail](Dashboard%20imgs/Screenshot%202026-08-12%20020530.png)
+![Dashboard Detail](Dashboard%20imgs/daily-sales-performance.png)
 
 ### Repository / Data View
 ![Repository View](Dashboard%20imgs/Screenshot%202026-08-12%20020602.png)
