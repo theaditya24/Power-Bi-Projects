@@ -31,15 +31,18 @@ Together they cover the full loop: raw transactional data → operational dashbo
 Real-time order tracking with search, filters (payment mode, customer type, date), and a live
 transactions table pulled straight from PostgreSQL.
 
-> `Dashboard imgs/web-app-orders-management.png`
+![Orders Management](Dashboard%20imgs/Screenshot%202026-08-12%20020425.png)
 
 ### Power BI — Daily Sales Performance
 Hourly sales insights: average spend per order, revenue, and units sold, with order/customer/amount/quantity summary rings.
 
-![Daily Sales Performance](Dashboard%20imgs/sales-performance-report.png)
+![Daily Sales Performance](Dashboard%20imgs/Screenshot%202026-08-12%20020446.png)
 
-> Place the corresponding screenshots inside `Dashboard imgs/` using the filenames referenced above
-> (or update the paths to match your own filenames) so both images render on GitHub.
+### Dashboard Detail View
+![Dashboard Detail](Dashboard%20imgs/Screenshot%202026-08-12%20020530.png)
+
+### Repository / Data View
+![Repository View](Dashboard%20imgs/Screenshot%202026-08-12%20020602.png)
 
 ## ✨ Key Features
 
