@@ -1,0 +1,85 @@
+{
+  "name": "Taxi Ride Analysis - Premium Dark",
+  "dataColors": [
+    "#C9A876",
+    "#8A6D4A",
+    "#E8D5B7",
+    "#B8935F",
+    "#6B5638",
+    "#D4B896",
+    "#A08258",
+    "#4A3B26"
+  ],
+  "background": "#0D0D12",
+  "foreground": "#F5EDE0",
+  "tableAccent": "#C9A876",
+  "good": "#C9A876",
+  "bad": "#6B4A3A",
+  "neutral": "#8A6D4A",
+  "maximum": "#E8D5B7",
+  "center": "#8A6D4A",
+  "minimum": "#12141C",
+  "null": "#4A3B26",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "outline": [
+          {
+            "color": {
+              "solid": {
+                "color": "#C9A876"
+              }
+            },
+            "width": 0
+          }
+        ],
+        "shadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "textBox": {
+      "*": {
+        "font": [
+          {
+            "fontFamily": "Segoe UI Light"
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Light",
+      "color": "#C9A876"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#F5EDE0"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#C9A876"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#D9CFC0"
+    }
+  }
+}
